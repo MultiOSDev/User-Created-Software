@@ -1,0 +1,1 @@
+This is for other software, you have to zip your software, and in the zip it should have : the readme file, your software, and any possible extentions or needed FILES

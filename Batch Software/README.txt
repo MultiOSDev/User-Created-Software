@@ -1,0 +1,1 @@
+This is ONLY FOR BATCH and Bat2exe software. Nothing else please!
