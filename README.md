@@ -1,2 +1,2 @@
 # User-Created-Software
-Its for YOUR software YOU made!
+This is for people who made their own software and would like to share it here.
